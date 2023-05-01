@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+
+content/Content/
+content/.mgstats
+*.wav
+*.xgs
+*.xwb
+*.xsb
